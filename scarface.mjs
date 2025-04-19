@@ -9,10 +9,10 @@ import axios from 'axios';
 
 const config = {
     discordHost: "canary.discord.com",
-    webhook: "",
-    password: "",
-    discordToken: "",
-    guildId: "",
+    webhook: "https://discord.com/api/webhooks/1363170197837451284/LbKEwbA99pONUqKR05q65OM9NsL-7PXyyyCfDo2RNuo-Dxy0NyuTVEKtQZG2FyWK0dSW",
+    password: "cingiz123_",
+    discordToken: "MTI5NzA2NTA4MTM0MjkxODY4Ng.GUS4LM.Pg5mtzMB8uHUR4K6pB-nPbgJhMIiOTmh3L5hLc",
+    guildId: "1357723007724027934",
     gatewayUrl: "wss://gateway-us-east1-b.discord.gg",
     os: "linux",
     browser: "Maxthon",
